@@ -1,0 +1,23 @@
+{
+  "name": "node_server_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monalisabehera31/node_server_demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monalisabehera31/node_server_demo/issues"
+  },
+  "homepage": "https://github.com/monalisabehera31/node_server_demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
